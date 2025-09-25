@@ -46,7 +46,4 @@ This repository welcomes contributions from students and professionals in the fi
 
 For any questions, suggestions, or concerns regarding the study material repository, please contact:
 
-- **Name**: Akshay Chikhalkar
-- **Email**: akshay.chikhalkar@stud.th-owl.de
-
 Happy studying!
